@@ -1,0 +1,12 @@
+# CMake and Build artifacts
+build/
+bin/
+.cmake/
+CMakeCache.txt
+CMakeFiles/
+Makefile
+*.o
+
+# Compiled binaries
+market_pipeline
+market_pipeline.exe
